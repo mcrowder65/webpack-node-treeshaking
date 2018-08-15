@@ -1,0 +1,6 @@
+{
+  "presets": [
+    // https://stackoverflow.com/questions/47663486/webpack-3-babel-and-tree-shaking-not-working
+    ["env", { "modules": false }]
+  ]
+}
